@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-6tjen9.resultadofacil.com.br/sitemap.xml
